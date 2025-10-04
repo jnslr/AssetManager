@@ -20,12 +20,20 @@
             "args": ["-uh"],
             "console": "integratedTerminal",
         },
-                {
+        {
             "name": "Python Debugger: Run Report",
             "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/AssetTool.py",
             "args": ["-r"],
+            "console": "integratedTerminal",
+        },
+        {
+            "name": "Python Debugger: Run Export",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/AssetTool.py",
+            "args": ["-e"],
             "console": "integratedTerminal",
         }
     ]
