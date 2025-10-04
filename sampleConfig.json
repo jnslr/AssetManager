@@ -1,0 +1,15 @@
+{
+    "aplhaVantageApiKey": "XXXXXXXXXXXX",
+    "files": [
+        "~/Documents/Banking/BrokerData1",
+        "~/Documents/Banking/BrokerData2",
+        "~/Downloads/BrokerData3"
+    ],
+    "transactions": [
+        {"type": 0, "isin": "ABCDEFGHIJKL", "date": "2018-01-01", "quantity": 1.0, "stockPrice": 1.0, "cost": 1.0, "total": 299.0},
+        {"type": 0, "isin": "ABCDEFGHIJKL", "date": "2019-02-01", "quantity": 2.0, "stockPrice": 1.0, "cost": 1.0, "total": 299.0},
+        {"type": 0, "isin": "ABCDEFGHIJKL", "date": "2020-09-01", "quantity": 3.0, "stockPrice": 1.0, "cost": 1.0, "total": 299.0},
+        {"type": 0, "isin": "ABCDEFGHIJKL", "date": "2021-10-30", "quantity": 4.0, "stockPrice": 1.0, "cost": 1.0, "total": 299.0},
+        {"type": 0, "isin": "ABCDEFGHIJKL", "date": "2022-12-30", "quantity": 5.0, "stockPrice": 1.0, "cost": 1.0, "total": 299.0}
+    ]
+}
